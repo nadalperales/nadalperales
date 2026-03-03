@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate course(s)"
 collection: teaching
-type: "TA"
+type: ""
 permalink: /teaching/teaching
 venue: "University Carlos III of Madrid"
 location: "Madrid, Spain"
