@@ -23,9 +23,9 @@ repository               : "nadalperales/nadalperales.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic2.png"
   name             : "Nadal Perales Oliver"
-  pronouns         : # example: "she/her"  
+  pronouns         :  "he/him"  
   bio              : "Islander seeking land"
   location         : "Madrid, Spain"
   employer         : "University Carlos III of Madrid"
