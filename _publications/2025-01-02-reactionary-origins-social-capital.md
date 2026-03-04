@@ -9,5 +9,6 @@ author_links:
   - name: "Ignacio Sánchez-Cuenca"
     url: "https://ignaciosanchezcuenca.wordpress.com/"
   - name: "Jordi Domènech"
-    url: "https://sites.google.com/view/jordidomenechfeliu22"paperurl: "/files/cps_reactionaryorigins.pdf"
+    url: "https://sites.google.com/view/jordidomenechfeliu22"
+paperurl: "/files/cps_reactionaryorigins.pdf"
 ---
