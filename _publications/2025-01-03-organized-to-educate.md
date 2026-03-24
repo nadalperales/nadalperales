@@ -1,5 +1,5 @@
 ---
-title: "Organized to Educate: Local Organizations and the Rise of Literacy in Pre-Civil War Spain"
+title: "The Pencil and the Sickle: Labor Collective Action and the Rise of Literacy in Spain"
 collection: publications
 category: working_papers
 permalink: /publications/organized-to-educate/
